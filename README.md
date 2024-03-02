@@ -1,68 +1,70 @@
-<img src=".github/Detectron2-Logo-Horz.svg" width="300" >
-
-<a href="https://opensource.facebook.com/support-ukraine">
-  <img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine - Help Provide Humanitarian Aid to Ukraine." />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/facebookresearch/detectron2/blob/main/.github/Detectron2-Logo-Horz.svg"><img src="/facebookresearch/detectron2/raw/main/.github/Detectron2-Logo-Horz.svg" width="300" style="max-width: 100%;"></a></p>
+<a href="https://opensource.facebook.com/support-ukraine" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/a525a454f7a24fe71586bdb0fd4200fd5a008ac5c2151d605659832c8f50a1fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f72742d556b7261696e652d4646443530303f7374796c653d666c6174266c6162656c436f6c6f723d303035424242" alt="支持乌克兰 - 帮助向乌克兰提供人道主义援助。" data-canonical-src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&amp;labelColor=005BBB" style="max-width: 100%;">
 </a>
-
-Detectron2 is Facebook AI Research's next generation library
-that provides state-of-the-art detection and segmentation algorithms.
-It is the successor of
-[Detectron](https://github.com/facebookresearch/Detectron/)
-and [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
-It supports a number of computer vision research projects and production applications in Facebook.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detectron2 是 Facebook AI Research 的下一代库，提供最先进的检测和分割算法。</font></font><a href="https://github.com/facebookresearch/Detectron/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是Detectron</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+和</font></font><a href="https://github.com/facebookresearch/maskrcnn-benchmark/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">maskrcnn-benchmark</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的后继者
+</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">它支持 Facebook 中的许多计算机视觉研究项目和生产应用。</font></font></p>
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"><img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png" style="max-width: 100%;"></a>
 </div>
 <br>
-
-## Learn More about Detectron2
-
-Explain Like I’m 5: Detectron2            |  Using Machine Learning with Detectron2
-:-------------------------:|:-------------------------:
-[![Explain Like I’m 5: Detectron2](https://img.youtube.com/vi/1oq1Ye7dFqc/0.jpg)](https://www.youtube.com/watch?v=1oq1Ye7dFqc)  |  [![Using Machine Learning with Detectron2](https://img.youtube.com/vi/eUSgtfK4ivk/0.jpg)](https://www.youtube.com/watch?v=eUSgtfK4ivk)
-
-## What's New
-* Includes new capabilities such as panoptic segmentation, Densepose, Cascade R-CNN, rotated bounding boxes, PointRend,
-  DeepLab, ViTDet, MViTv2 etc.
-* Used as a library to support building [research projects](projects/) on top of it.
-* Models can be exported to TorchScript format or Caffe2 format for deployment.
-* It [trains much faster](https://detectron2.readthedocs.io/notes/benchmarks.html).
-
-See our [blog post](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
-to see more demos and learn about detectron2.
-
-## Installation
-
-See [installation instructions](https://detectron2.readthedocs.io/tutorials/install.html).
-
-## Getting Started
-
-See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html),
-and the [Colab Notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
-to learn about basic usage.
-
-Learn more at our [documentation](https://detectron2.readthedocs.org).
-And see [projects/](projects/) for some projects that are built on top of detectron2.
-
-## Model Zoo and Baselines
-
-We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
-
-## License
-
-Detectron2 is released under the [Apache 2.0 license](LICENSE).
-
-## Citing Detectron2
-
-If you use Detectron2 in your research or wish to refer to the baseline results published in the [Model Zoo](MODEL_ZOO.md), please use the following BibTeX entry.
-
-```BibTeX
-@misc{wu2019detectron2,
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关 Detectron2 的更多信息</font></font></h2><a id="user-content-learn-more-about-detectron2" class="anchor-element" aria-label="永久链接：了解有关 Detectron2 的更多信息" href="#learn-more-about-detectron2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像我 5 岁一样解释：Detectron2</font></font></th>
+<th align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将机器学习与 Detectron2 结合使用</font></font></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://www.youtube.com/watch?v=1oq1Ye7dFqc" rel="nofollow"><img src="https://camo.githubusercontent.com/1a88006c5f7b5fa2b832849ce9809dbe77fb5a0b164a00457b2b858fc6687f20/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f316f7131596537644671632f302e6a7067" alt="像我 5 岁一样解释：Detectron2" data-canonical-src="https://img.youtube.com/vi/1oq1Ye7dFqc/0.jpg" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://www.youtube.com/watch?v=eUSgtfK4ivk" rel="nofollow"><img src="https://camo.githubusercontent.com/7ea45aeb071cda4dee293aa49de1011f95e7f208cbdf50576e82bb3a9893567d/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6555536774664b3469766b2f302e6a7067" alt="将机器学习与 Detectron2 结合使用" data-canonical-src="https://img.youtube.com/vi/eUSgtfK4ivk/0.jpg" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是新的</font></font></h2><a id="user-content-whats-new" class="anchor-element" aria-label="永久链接：有什么新鲜事" href="#whats-new"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包括全景分割、Densepose、Cascade R-CNN、旋转边界框、PointRend、DeepLab、ViTDet、MViTv2 等新功能。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用作图书馆以支持</font><font style="vertical-align: inherit;">在其之上构建</font></font><a href="/facebookresearch/detectron2/blob/main/projects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">研究项目。</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模型可以导出为 TorchScript 格式或 Caffe2 格式以进行部署。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它</font></font><a href="https://detectron2.readthedocs.io/notes/benchmarks.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">训练得更快</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅我们的</font></font><a href="https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客文章</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+以查看更多演示并了解 detectorron2。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-installation" class="anchor-element" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://detectron2.readthedocs.io/tutorials/install.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor-element" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://detectron2.readthedocs.io/tutorials/getting_started.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detectron2 入门</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Colab Notebook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+以了解基本用法。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://detectron2.readthedocs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅我们的文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">有关构建在 detectorron2 之上的一些项目，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/facebookresearch/detectron2/blob/main/projects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">projects/ 。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模型动物园和基线</font></font></h2><a id="user-content-model-zoo-and-baselines" class="anchor-element" aria-label="永久链接：模型动物园和基线" href="#model-zoo-and-baselines"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们提供了大量基线结果和经过训练的模型，可供在</font></font><a href="/facebookresearch/detectron2/blob/main/MODEL_ZOO.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detectron2 Model Zoo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中下载。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor-element" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detectron2 是根据</font></font><a href="/facebookresearch/detectron2/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 2.0 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布的。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引用 Detectron2</font></font></h2><a id="user-content-citing-detectron2" class="anchor-element" aria-label="永久链接：引用 Detectron2" href="#citing-detectron2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在研究中使用 Detectron2 或希望参考</font></font><a href="/facebookresearch/detectron2/blob/main/MODEL_ZOO.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Model Zoo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中发布的基线结果，请使用以下 BibTeX 条目。</font></font></p>
+<div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@misc</span>{<span class="pl-en">wu2019detectron2</span>,
+  <span class="pl-s">author</span> =       <span class="pl-s"><span class="pl-pds">{</span>Yuxin Wu and Alexander Kirillov and Francisco Massa and</span>
+<span class="pl-s">                  Wan-Yen Lo and Ross Girshick<span class="pl-pds">}</span></span>,
+  <span class="pl-s">title</span> =        <span class="pl-s"><span class="pl-pds">{</span>Detectron2<span class="pl-pds">}</span></span>,
+  <span class="pl-s">howpublished</span> = <span class="pl-s"><span class="pl-pds">{</span>\url{https://github.com/facebookresearch/detectron2}<span class="pl-pds">}</span></span>,
+  <span class="pl-s">year</span> =         <span class="pl-s"><span class="pl-pds">{</span>2019<span class="pl-pds">}</span></span>
+}</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@misc{wu2019detectron2,
   author =       {Yuxin Wu and Alexander Kirillov and Francisco Massa and
                   Wan-Yen Lo and Ross Girshick},
   title =        {Detectron2},
   howpublished = {\url{https://github.com/facebookresearch/detectron2}},
   year =         {2019}
-}
-```
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</article></div>
